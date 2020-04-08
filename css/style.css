@@ -202,6 +202,16 @@ header .subtitulo{
     width: 100%;
     
 }
+.img-project-1{
+    transform: scale(1.1,1.1);
+    margin-top: 35px;
+}
+.img-project-2{
+    transform: scale(1.1,1.1);
+}
+.img-project-3{
+    transform: scale(0.7,0.7);
+}
 footer{
     background:#2c3e50 ;
     height: auto;
